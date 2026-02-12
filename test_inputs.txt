@@ -1,0 +1,12 @@
+Test Case 1:
+Favorite food: Pizza
+Favorite color: Blue
+
+Test Case 2:
+Favorite food: Biryani
+Favorite color: Red
+
+Test Case 3 (edge case):
+Favorite food: 
+Favorite color: Green
+Expected: Program asks again for food
